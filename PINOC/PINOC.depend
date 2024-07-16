@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1709612742 source:c:\users\user\documents\pinoc\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1709635593 source:c:\users\admin\documents\workspace\cpp\source_code_2023\pinoc\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
